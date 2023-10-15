@@ -1,0 +1,3 @@
+﻿  flag.cpp
+C:\Users\小广子\source\repos\三子棋\三子棋\flag.cpp(13,6): warning C4101: “i”: 未引用的局部变量
+  三子棋.vcxproj -> C:\Users\小广子\source\repos\三子棋\x64\Debug\三子棋.exe
